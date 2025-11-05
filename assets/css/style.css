@@ -52,3 +52,7 @@ div#cpd-NaN {
 .area-kits a:hover :not(s) {
   text-decoration: none !important;
 }
+
+a {
+  text-decoration: none;
+}
