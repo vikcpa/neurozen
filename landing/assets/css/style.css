@@ -1674,3 +1674,7 @@ footer .copy {
 	text-align: center;
 	background: #fff
 }
+
+a u {
+    text-decoration: none !important;
+}
